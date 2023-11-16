@@ -1,0 +1,14 @@
+D:\Projects\Bits_Parity\bin\Debug\net6.0\Bits_Parity.exe
+D:\Projects\Bits_Parity\bin\Debug\net6.0\Bits_Parity.deps.json
+D:\Projects\Bits_Parity\bin\Debug\net6.0\Bits_Parity.runtimeconfig.json
+D:\Projects\Bits_Parity\bin\Debug\net6.0\Bits_Parity.dll
+D:\Projects\Bits_Parity\bin\Debug\net6.0\Bits_Parity.pdb
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.AssemblyInfoInputs.cache
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.AssemblyInfo.cs
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.csproj.CoreCompileInputs.cache
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.dll
+D:\Projects\Bits_Parity\obj\Debug\net6.0\refint\Bits_Parity.dll
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.pdb
+D:\Projects\Bits_Parity\obj\Debug\net6.0\Bits_Parity.genruntimeconfig.cache
+D:\Projects\Bits_Parity\obj\Debug\net6.0\ref\Bits_Parity.dll
